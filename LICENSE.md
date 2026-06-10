@@ -1,4 +1,4 @@
-# 
+# Intelligent VoltAgent extensions. Avec agents collaboratifs et pipelines de données — optimisé pour des performances et une efficacité maximales.
 
 
 
